@@ -1,0 +1,4 @@
+nltk==3.8.1
+pymorphy2==0.9.1pip
+pyparsing==3.1.1
+ply==3.11
